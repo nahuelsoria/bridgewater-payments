@@ -40,4 +40,4 @@ Live in production with real business clients.
 
 ---
 
-Built and led by [Nahuel Soria](https://github.com/nahuelsoria) · [LinkedIn](https://www.linkedin.com/in/nahuelsoria/)
+Built and led by [Nahuel Soria](https://nahuelsoria.com/en) · [GitHub](https://github.com/nahuelsoria) · [LinkedIn](https://www.linkedin.com/in/nahuelsoria/)
