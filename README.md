@@ -2,6 +2,8 @@
 
 > B2B fintech payments infrastructure. I designed, built and operated it end to end as sole technical owner.
 
+**The current version of this case study is on my site: [nahuelsoria.com/en/proyectos/bridgewater-payments](https://nahuelsoria.com/en/proyectos/bridgewater-payments).**
+
 This repository is a public case study of work I led. It contains no proprietary code or confidential data, only an overview of the product, my role, and the engineering approach.
 
 ## Overview
